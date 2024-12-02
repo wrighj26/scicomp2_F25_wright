@@ -7,7 +7,7 @@
     },
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-        "packages": "libhdf5-dev"
+        "packages": "libhdf5-dev,ffmpeg"
     },
     "ghcr.io/devcontainers/features/git-lfs:1": {}
   },

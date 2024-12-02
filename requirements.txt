@@ -61,6 +61,7 @@ prompt-toolkit
 psutil
 ptyprocess
 pure-eval
+pydub
 pyerfa
 Pygments
 pymc3
