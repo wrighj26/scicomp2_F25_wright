@@ -9,3 +9,4 @@ data/SDSS_stars.csv filter=lfs diff=lfs merge=lfs -text
 data/SDSS_wd.csv filter=lfs diff=lfs merge=lfs -text
 data/US_births_2000-2014_SSA.csv filter=lfs diff=lfs merge=lfs -text
 homework/midterm_gaia-hr-inference-project/data/gaiadr3_solar_neighborhood.csv filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
