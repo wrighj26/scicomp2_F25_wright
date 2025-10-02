@@ -21,7 +21,6 @@ etils
 executing
 flax
 fonttools
-git-lfs
 h5netcdf
 h5py
 importlib-metadata
