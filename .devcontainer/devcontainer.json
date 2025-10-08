@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/python:dev-3.10-bullseye",
-  "name": "OSU SciCompII Fall2024",
+  "name": "OSU SciCompII Fall2025",
   "settings": {
         "python.pythonPath": "/usr/local/bin/python",
         "terminal.integrated.shell.linux": "/bin/bash"
@@ -8,8 +8,7 @@
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
         "packages": "libhdf5-dev,ffmpeg"
-    },
-    "ghcr.io/devcontainers/features/git-lfs:1": {}
+    }
   },
   "hostRequirements": {
     "cpus": 2
